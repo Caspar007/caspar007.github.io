@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.caspar007" name="Caspar's modified addons" version="0.0.1" provider-name="Caspar007">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/caspar007/repository.caspar007/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/caspar007/repository.caspar007/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/caspar007/repository.caspar007/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Caspar's modified addons</summary>
+        <description>for all the little hacks and changes I do on some Kodi addons</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon></addons>
