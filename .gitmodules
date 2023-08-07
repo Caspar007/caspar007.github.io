@@ -1,0 +1,9 @@
+[submodule "skin.estuary.mods"]
+	path = skin.estuary.mods
+	url = https://github.com/Caspar007/skin.estuary.mods.git
+[submodule "plugin.video.seren"]
+	path = plugin.video.seren
+	url = https://github.com/nixgates/plugin.video.seren.git
+[submodule "plugin.video.themoviedb.helper"]
+	path = plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
