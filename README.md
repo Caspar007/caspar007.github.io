@@ -11,7 +11,10 @@ The `_repo_xml_generator.py` script included in this repository will build `.zip
 ----
 
 ### Make your repository zip installable inside Kodi
-Copy the zip file of your repository, located at `repo/zips/repository.caspar007/repository.caspar007-VERSION_NUMBER_HERE.zip`,
+Copy the zip file of your repository, located at:
+
+ `repo/zips/repository.caspar007/repository.caspar007-VERSION_NUMBER_HERE.zip`,
+
 and paste it into the root folder. Rename the file and remove the version number!
 
 Here is your zip file:
