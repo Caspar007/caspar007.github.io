@@ -10,7 +10,7 @@
     <extension point="xbmc.addon.metadata">
         <summary>Caspar's modified addons</summary>
         <description>for all the little hacks and changes I do on some Kodi addons</description>
-        <disclaimer></disclaimer>
+        <disclaimer>Use at your own risk</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
