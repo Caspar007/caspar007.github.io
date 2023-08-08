@@ -13,19 +13,7 @@ After adding your source folders, simply run `_repo_generator.py`. This will cre
 ### Make your repository zip installable inside Kodi
 ---
 Copy the zip file of your repository, located at `repo/zips/repository.caspar007/repository.caspar007-VERSION_NUMBER_HERE.zip`,
-and paste it into the root folder.
+and paste it into the root folder. Rename the file and remove the version number!
 
-Edit the link inside `index.html` to reflect your add-on's filename, as seen on line 1:
-
-```HTML
-<a href="repository.caspar007-VERSION_NUMBER_HERE.zip">repository.caspar007-VERSION_NUMBER_HERE.zip</a>
-```
-
-After committing and pushing these changes to your repo, go to the "Settings" section for this repository on GitHub. In the first box, labeled "Repository name", change your repository's name. Generally, GitHub Pages repositories are named `YOUR_USERNAME_HERE.github.io`,  but it can be whatever you'd like.
-Next, scroll down to the "GitHub Pages" section, choose the default branch (or whichever you chose when modifying your `addon.xml`) as the source, and click "Save".
-
-After that, you should be all done!
-
-If you named this repository `YOUR_USERNAME_HERE.github.io` (as recommended), your file manager source will be:
-
-`https://caspar007.github.io/`
+Here is your zip file:
+`https://caspar007.github.io/repository.caspar007`
