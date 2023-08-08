@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.caspar007" name="Caspar's modified addons" version="0.0.1" provider-name="Caspar007">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+    <extension point="xbmc.addon.repository" name="Caspars Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/caspar007/repository.caspar007/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/caspar007/repository.caspar007/master/repo/zips/addons.xml.md5</checksum>
