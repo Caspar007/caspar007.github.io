@@ -8,8 +8,7 @@ Open the repo sub folder in the code explorer, run in the terminal:
 
 The `_repo_xml_generator.py` script included in this repository will build `.zip` files for each included add-on, as well as generating the necessary `addons.xml` and `addons.xml.md5` files, so that Kodi can infer the contents of the repo. 
 
-## Same add-ons to all versions (default)
----
+# Same add-ons to all versions (default)
 Place your add-on source folders in the `repo` folder of this repository.
 ---
 After adding your source folders, simply run `_repo_generator.py`. This will create `.zip`s of all of the desired add-ons, and place them in subfolders called `zips`, along with the generated `addons.xml` and `addons.xml.md5`. As of version 3, this script can create distributions for Krypton, Leia, Matrix, and Nexus, as well as the generic "repo", which is intended to serve to any version (like for the repository itself, or any cross-version libraries and dependencies).
