@@ -1,7 +1,6 @@
 ## Adding add-ons to your repository
+For ease of updating included add-ons, the recommended method of doing this is via [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), 
 ---
-To build the repository, first place the add-on source folders for whichever add-ons you'd like to be contained in your Kodi repo inside this repository. 
-For ease of updating included add-ons, the recommended method of doing this is via [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), which are supported by many Git clients, as well as the Git terminal. 
 Example for VSCode: 
 Open the repo sub folder in the code explorer, run in the terminal: 
 `git submodule add https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git`
